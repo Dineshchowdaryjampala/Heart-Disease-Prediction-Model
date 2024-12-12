@@ -22,4 +22,3 @@ The dataset includes the following columns:
 - time: Follow-up period (days)
 - DEATH_EVENT: 1 if the patient died, 0 otherwise (target variable)
 
-![Picture1](https://github.com/user-attachments/assets/101aa7c7-7668-45be-8012-bebe3fb864dc)
