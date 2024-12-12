@@ -1,3 +1,4 @@
+
 # Heart Disease Prediction using ML/DL Models
 The objectives are to build an efficient heart disease prediction model using different machine learning and deep learning algorithms. We aim to leverage a large dataset and rigorous evaluation metrics to achieve high accuracy. The model will provide individual risk scores to enable personalized screening and treatment The project intends to complete several crucial activities to reach this goal. First, it entails gathering and preparing large-scale datasets with pertinent heart health-related information. 
 This stage makes that the data is prepared for model training, clean, and well formatted. Next, utilizing the pre-processed data, the algorithms for Gradient Boosting, CNN, decision tree, naïve bayes will be put into practice and refined. The goal of the optimization process is to estimate the risk of heart disease with the highest level of accuracy and dependability.
@@ -28,8 +29,3 @@ The dataset includes the following columns:
 - Data Visualization
 - Model Training & Testing
 - Jupyter Notebook
-
-
-
-## Screen Shots
-
