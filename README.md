@@ -32,5 +32,15 @@ The dataset includes the following columns:
 
 
 ## Screenshots
-### Gradient Boosting 
-![Picture1](https://github.com/user-attachments/assets/246bb1e5-5b60-4dde-9111-1658b94b7c91)
+### Gradient Boosting
+![gb](https://github.com/user-attachments/assets/8fba21f5-b9c7-4ca9-8f0b-3a2321464e2c)
+### Decision Tree
+![DT](https://github.com/user-attachments/assets/9bd3da96-abe0-4a4a-a4ee-4e119c92a1fb)
+### Naive Bayes
+![nb](https://github.com/user-attachments/assets/867722f4-1a71-41f1-964f-89e72c04c714)
+### CNN
+![CNN](https://github.com/user-attachments/assets/ea885a13-e3ec-4a4e-8d6d-16bf2d38e035)
+
+
+
+
