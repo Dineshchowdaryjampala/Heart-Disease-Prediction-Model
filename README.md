@@ -20,3 +20,16 @@ The dataset includes the following columns:
 - smoking: 1 if the patient smokes, 0 otherwise
 - time: Follow-up period (days)
 - DEATH_EVENT: 1 if the patient died, 0 otherwise (target variable)
+
+
+## 🛠 Skills
+- Python
+- Preprocessing 
+- Data Visualization
+- Model Training & Testing
+- Jupyter Notebook
+
+
+
+## Screen Shots
+
