@@ -29,3 +29,8 @@ The dataset includes the following columns:
 - Data Visualization
 - Model Training & Testing
 - Jupyter Notebook
+
+
+## Screenshots
+### Gradient Boosting 
+![Picture1](https://github.com/user-attachments/assets/246bb1e5-5b60-4dde-9111-1658b94b7c91)
