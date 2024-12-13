@@ -30,6 +30,13 @@ The dataset includes the following columns:
 - Model Training & Testing
 - Jupyter Notebook
 
+## Accuracy Obtained through Different Models
+- CNN	- 73%
+- GRADIENT BOOST - 98.84%
+- DECISION TREE -	73%
+- NAÏVE BAYES -	70%
+
+
 
 ## Screenshots
 ### Gradient Boosting
